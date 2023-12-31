@@ -14,4 +14,4 @@ Sample Image
 
 Author:
 
-[Yahya Ansari](https://linkedin.com/in/yahya-ansari)
+[Akbar Ali Shaikh]
